@@ -58,6 +58,5 @@ for(let i=0;i<res.length;i++){
     div3.innerHTML=`<h6>No Results Found</h6>`;
     document.body.append(div3);
 }
-
-    
 }
+ 
